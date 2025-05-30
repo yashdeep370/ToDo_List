@@ -1,7 +1,5 @@
 # ToDo_List
 Styled To-Do List (Tkinter GUI)
-Here’s a complete **README description** for your enhanced To-Do List app with deadlines, checkboxes, and dark mode — perfect for uploading to GitHub.
-
 ---
 
 # 📝 Advanced To-Do List App (Tkinter GUI)
